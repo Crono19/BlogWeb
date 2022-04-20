@@ -1,18 +1,18 @@
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: lightcyan;
   }
   
 nav{
     background-color: black;
 }
 h1{
-    color: white;
+    color: dimgray;
 }
 h4{
-    color: white;
+    color: dimgray;
 }
 p{
-    color: white;
+    color: dimgray;
 }
   
   p {
