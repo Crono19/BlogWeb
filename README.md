@@ -1,5 +1,5 @@
 
-Bienvenido a nuestro repositorio de Brilliant Blog.
+# Bienvenido a nuestro repositorio de Brilliant Blog.
 
 Brillian Blog es una página web en la que hablamos sobre diversos temas de nuestro interés; tales como:
 
