@@ -11,10 +11,10 @@ Ha sido desarrollado por estudiantes de Ingeniería en Informática en Sistemas 
 
 Integrantes del equipo:
 
-1. @github/support
-2. @JavierLe29
-3. @EstuardoVasquez
-4. @ianA167
-5. @Crono19
+1. **@NRDRND**
+2. **@JavierLe29**
+3. **@EstuardoVasquez**
+4. **@ianA167**
+5. **@Crono19**
 
 El blog ha sido desarrollado únicamente con conocimientos básicos en HTML y CSS.
