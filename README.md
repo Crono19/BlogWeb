@@ -7,18 +7,14 @@ Brillian Blog es una página web en la que hablamos sobre diversos temas de nues
 2. Deportes
 3. Desarrollo científico
 
-Ha sido desarrollado por estudiantes de Ingeniería en Informática en Sistemas de la Universidad Rafael Landívar, campus de Quetzaltenango.
+Ha sido desarrollado por estudiantes de Ingeniería en Informática en Sistemas de la Universidad Rafael  Landívar, campus de Quetzaltenango.
 
-```
-If condición:
-    Código
-```
+Integrantes del equipo:
 
-Como pueden ver, es mucho más fácil que en otros lenguajes.
-Para mostrar un "Hola mundo" en pantalla, solo se debe programar lo siguiente:
+1. @NRDRND
+2. @JavierLe29
+3. @EstuardoVasquez
+4. @ianA167
+5. @Crono19
 
-```
-print("Hola mundo")
-```
-
-Considero que @NRDRND y @PepiSaur53 están de acuerdo conmigo en todo lo que digo.
+El blog ha sido desarrollado únicamente con conocimientos básicos en HTML y CSS.
