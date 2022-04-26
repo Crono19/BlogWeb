@@ -11,7 +11,7 @@ Ha sido desarrollado por estudiantes de Ingeniería en Informática en Sistemas 
 
 Integrantes del equipo:
 
-1. @NRDRND
+1. @github/support
 2. @JavierLe29
 3. @EstuardoVasquez
 4. @ianA167
